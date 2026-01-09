@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Machine Learning
+xgboost
+
+# Deep Learning
+tensorflow
+
+# Explainable AI
+shap
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook & Dev
+jupyter
+
+# API & Dashboard
+fastapi
+uvicorn
+streamlit
+
+# Utilities
+joblib
+tqdm
